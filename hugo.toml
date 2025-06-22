@@ -1,0 +1,18 @@
+baseURL = 'https://ravecommittee.com/'
+languageCode = 'en-us'
+title = 'Rave Committee Records'
+
+theme = "poison"
+
+pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
+
+[params]
+    brand = "Rave Committee Records"                      # name of your site - appears in the sidebar
+    brand_image = "/images/RCR_logo.svg"    # path to the image shown in the sidebar
+    description = "Making your mum acid" # Used as default meta description if not specified in front matter
+    dark_mode = true                      # optional - defaults to false
+    # Links to your socials.  Comment or delete any you don't need/use. 
+    email_url = "mailto://chair@ravecommittee.com"
+    facebook_url = "https://facebook.com/ravecommittee"
+    instagram_url = "https://instagram.com/ravecommittee"
+    mastodon_url = "https://mastodon.social"

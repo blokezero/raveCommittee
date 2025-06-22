@@ -1,0 +1,9 @@
+.sidebar-about img {
+  border: none;
+  border-radius: 0;
+}
+
+.sidebar-about h1 {
+  font-size: 1.4em;
+  font-family: "Monaco", monospace;
+}
